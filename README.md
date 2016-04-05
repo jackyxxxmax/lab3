@@ -1,1 +1,2 @@
-# lab3
+compile:make
+execute:./lab3
